@@ -16,7 +16,7 @@ except ImportError:
     print("Install with: pip install PyPDF2")
 
 # === Configuration ===
-GROQ_API_KEY = "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"  # Your GROQ API key
+GROQ_API_KEY = "your_api_key"  # Your GROQ API key
 OPENSEARCH_HOST = "localhost"
 OPENSEARCH_PORT = 9200
 OPENSEARCH_USER = "admin"
