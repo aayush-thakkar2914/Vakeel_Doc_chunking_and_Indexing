@@ -5,7 +5,7 @@ from opensearchpy import OpenSearch
 from sentence_transformers import SentenceTransformer
 import argparse
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "your_api_key"
 OPENSEARCH_HOST = "localhost"
 OPENSEARCH_PORT = 9200
 OPENSEARCH_USER = "admin"
